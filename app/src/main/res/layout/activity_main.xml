@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.it.dragdetaillayout.DragDetailLayout
-    android:id="@+id/activity_main"
+<com.it.dragdetaillayout.DragDetailLayout2
+    android:id="@+id/dl_container"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -15,4 +15,4 @@
         android:id="@+id/fl_bottom"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
-</com.it.dragdetaillayout.DragDetailLayout>
+</com.it.dragdetaillayout.DragDetailLayout2>
